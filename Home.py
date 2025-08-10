@@ -79,9 +79,9 @@ and ensure you make smart, data-driven decisions.
 📍 Focused exclusively on **Gurgaon**, this tool brings **local expertise with global-level analytics** to your fingertips.
 
  
-    ### 📚 Acknowledgements
-    - [99acres.com](https://www.99acres.com): Source of property listing data.  
-    - [CampusX DSMP](https://learnwith.campusx.in/t/u/activeCourses): Inspiration from their capstone structure.
+### 📚 Acknowledgements
+- [99acres.com](https://www.99acres.com): Source of property listing data.  
+- [CampusX DSMP](https://learnwith.campusx.in/t/u/activeCourses): Inspiration from their capstone structure.
     
 """)
 
